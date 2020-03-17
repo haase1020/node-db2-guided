@@ -2,7 +2,7 @@
 
 Guided project **DB II** Module.
 
-## Prerequisites
+## Prerequisites March 17, 2020
 
 - [SQLite Studio](https://sqlitestudio.pl/index.rvt?act=download) installed.
 - a REST client alike [Insomnia](https://insomnia.rest/download/) or [Postman](https://www.getpostman.com/downloads/) installed.
